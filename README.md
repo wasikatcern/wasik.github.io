@@ -1,2 +1,2 @@
 # wasik.github.io
-Website personal
+Personal website
